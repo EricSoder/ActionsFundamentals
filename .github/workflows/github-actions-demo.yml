@@ -11,7 +11,7 @@ on:
     inputs: 
       environment:
       type: environment
-      requried: true
+      required: true
       
 jobs:
   build: 
