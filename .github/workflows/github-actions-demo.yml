@@ -45,7 +45,7 @@ jobs:
     needs: Build
     steps:
       - run: |
-          echo "🧪 Testing.
+          echo "🧪 Testing."
           sleep 15
   
   Production:
